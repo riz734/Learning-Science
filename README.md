@@ -1,5 +1,5 @@
 # Learning-Science
-some stuff from learning science project
+some stuff from learning science project, pushed from Overleaf
 
 link to interactive diagram I made to summarize different papers in learning science, specifically topics related to self-regulated learning and desirable difficulties, on diagram.net 
 
